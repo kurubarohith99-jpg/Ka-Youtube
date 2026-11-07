@@ -1,0 +1,6 @@
+{
+  "name": "Rohith DJ Pro",
+  "description": "Professional DJ music mixing console with dual decks, real-time waveforms, scratching jog wheels, 3-band EQ, sampler pads, and live recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
